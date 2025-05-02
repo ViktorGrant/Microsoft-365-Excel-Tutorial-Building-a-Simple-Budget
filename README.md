@@ -1,7 +1,5 @@
-# Microsoft 365 Tutorial: Excell Budget
+# Microsoft 365 Tutorial: Excel Budget
 This tutorial introduces key Microsoft 365 tools and provides a hands-on walkthrough of Excel by creating and managing a personal budget
-
-# 💰 Microsoft 365 Excel Budget Tutorial
 
 ## ✅ Step 1: Open Microsoft 365
 - Go to [www.microsoft365.com](https://www.microsoft365.com)
