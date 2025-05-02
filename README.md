@@ -31,45 +31,15 @@ This tutorial introduces key Microsoft 365 tools and provides a hands-on walkthr
 ### 📊 Savings Table
 - 4 Columns: `Month`, `Initial Saved`, `Withdraw Amount`, `End`
 
-> 🖼️ **Tables Image**  
+<img width="1018" alt="Budget Tables Empty" src="https://github.com/user-attachments/assets/1dca103c-6d41-47da-911d-c9b2870944ce" />
 > *The tables should look something like this (Note: they have different sections)*
 
 ---
 
 ## ✅ Step 4: Fill Out the Tables
 
-### Income Table
-
-| Date       | Income       | Amount |
-|------------|--------------|--------|
-| 5/1/2025   | Job          | 3000   |
-| 5/7/2025   | Side Hustle  | 500    |
-| 5/12/2025  | Sold Clothes | 50     |
-
-### Expenses Table
-
-| Date       | Expense      | Amount |
-|------------|--------------|--------|
-| 5/1/2025   | Rent         | 1000   |
-| 5/1/2025   | Utilities    | 200    |
-| 5/3/2025   | Lunch        | 12     |
-
-### Savings Table
-
-| Month     | Initial Saved | Withdraw Amount | End   |
-|-----------|----------------|------------------|--------|
-| January   | 2338          | 0                | 2338   |
-| February  | 0             | 0                | 0      |
-| March     | 0             | 0                | 0      |
-| April     | 0             | 0                | 0      |
-| May       | 0             | 0                | 0      |
-| June      | 0             | 0                | 0      |
-| July      | 0             | 0                | 0      |
-| August    | 0             | 0                | 0      |
-| September | 0             | 0                | 0      |
-| October   | 0             | 0                | 0      |
-| November  | 0             | 0                | 0      |
-| December  | 0             | 0                | 0      |
+<img width="1015" alt="Budget Tables Complete" src="https://github.com/user-attachments/assets/9c147dc7-a8ab-42ff-b36b-6c68d4a8774a" />
+- The Budget Tables complete with details (Expenses, income, etc)
 
 ---
 
