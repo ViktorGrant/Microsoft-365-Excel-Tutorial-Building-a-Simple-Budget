@@ -7,7 +7,8 @@ This tutorial introduces key Microsoft 365 tools and provides a hands-on walkthr
 - Go to [www.microsoft365.com](https://www.microsoft365.com)
 - Create a **free** account if needed
 
-> 🖼️ **Home Page Image**  
+>  <img width="1263" alt="Home Page Image" src="https://github.com/user-attachments/assets/368c82cb-cf85-4d01-bf3d-e34bc31e78ca" />
+ 
 > *The Home page should look like this*
 
 ---
