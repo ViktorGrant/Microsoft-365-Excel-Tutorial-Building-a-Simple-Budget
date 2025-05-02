@@ -83,6 +83,18 @@ Make sure each section includes a **Totals row** at the bottom:
 
 ## ✅ Step 6: Formulas
 
-- **Add the Income Amounts together**:  
-  ```excel
-  =SUM(C2:C100)
+Add the **Income Amounts** column together into the totals cell with this formula:  
+`=SUM(C2:C100)`  
+*(Replace `C2:C100` with your actual range)*
+
+Add the **Expenses Amounts** column together into the totals cell with this formula:  
+`=SUM(F2:F100)`
+
+Have the **“End”** cell from the savings block be the total of Initial saved minus withdrawn with this formula:  
+`=H2 - I2`  
+*(Assuming H = Initial and I = Withdraw)*
+
+Add all the **“End”** column cells together to get the total yearly saved:  
+`=SUM(J2:J13)`  
+*(Assuming J holds the “End” values for each month)*
+
